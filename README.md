@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Advit Sharma</h1>
 <h3 align="center">A passionate developer looking for Software and Data Opportunities</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advit2611" alt="advit2611" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio website**
 
 - 🌱 I’m currently learning **React.js, Postman, Apache Kafka, Redis**
