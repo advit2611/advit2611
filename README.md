@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **React.js, Postman, Apache Kafka, Redis**
+- 🌱 I’m currently learning **Rust, Postman, Apache Spark**
 
 - 💬 Ask me about **Data and Machine Learning Stuff**
 
