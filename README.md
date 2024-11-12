@@ -20,5 +20,5 @@
 
 <br>
 
-[![Advit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=advit2611&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact&card_width=400px)](https://github.com/advit2611/github-readme-stats#gh-dark-mode-only)
+[![Advit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=advit2611&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact&card_width=400px&hide=Jupyter%20Notebook,CSS)](https://github.com/advit2611/github-readme-stats#gh-dark-mode-only)
 [![Advit's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=advit2611&show_icons=true&theme=transparent&title_color=000000&text_color=000000&locale=en&layout=compact&card_width=400px)](https://github.com/advit2611/github-readme-stats#gh-light-mode-only)
