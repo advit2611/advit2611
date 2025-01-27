@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Advit Sharma</h1>
 <h3 align="center">A passionate developer always curious about new  tech</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **optimizing Spark jobs**
 
 - 🌱 I’m currently learning **Rust, Postman, Apache Spark**
 
